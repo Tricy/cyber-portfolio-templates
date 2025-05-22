@@ -1,6 +1,6 @@
 ## 🔹 Junior Cybersecurity Analyst
 
-👩‍💻(female) [Your Name]  
+👩‍💻Nneka Nwoguh 
 **Junior Cybersecurity Analyst | Future Security Professional**  
 
 📌 **About Me:**  
@@ -28,6 +28,6 @@ and security operations. My goal is to analyze threats and implement security me
 - Gain hands-on experience in cybersecurity labs  
 
 📫 **Connect with me:**  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🔗 GitHub: [https://github.com/Tricy]  
+💼 LinkedIn: [https://www.linkedin.com/in/nneka-nwoguh-6b5989169/]  
 ```
